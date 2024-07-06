@@ -9,4 +9,7 @@ Three tier involves
 S3 Bucket Creation
 IAM EC2 Machine Role creation
 Download code from git repository
+
+git clone https://github.com/aws-samples/aws-three-tier-web-architecture-workshop.git
+
    
